@@ -23,7 +23,7 @@ I was required to master writing interface software, analyzing hardware architec
 
 ### *What skills from this project will be particularly transferable to other projects and/or coursework?* ###
 
-+ Transferable skills from this project and learning C coding language include:
+Transferable skills from this project and learning C coding language include:
 
 1. Understanding of memory management and pointers
 2. Proficiency in algorithmic thinking and problem-solving
@@ -33,7 +33,8 @@ I was required to master writing interface software, analyzing hardware architec
 
 ### *How did you make this project maintainable, readable, and adaptable?* ###
 
-+ I made the C project maintainable, readable, and adaptable by:
+I made the C project maintainable, readable, and adaptable by:
+
 1. Using descriptive variable and function names
 2. Employing consistent formatting and commenting
 3. Modularizing the code into reusable functions
